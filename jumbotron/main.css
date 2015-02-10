@@ -1,0 +1,17 @@
+.topper{
+	background-color: #000000;
+}
+
+.jumbotron{
+	padding-top: 75px;
+}
+
+.footer{
+	margin: 25px;
+	padding-top: 20px;
+	border-top: 1px solid #E6E6E6;
+}
+
+.jumbo-filler{
+	background-color: #E6E6E6;
+}
